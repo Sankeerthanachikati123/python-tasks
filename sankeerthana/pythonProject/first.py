@@ -1,0 +1,9 @@
+d={}
+d[1]=222
+d[2]=333
+d[3]=444
+d[4]=555
+d[5]=666
+print(d)
+print(d.keys())
+print(d.values())
